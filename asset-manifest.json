@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Stream/static/css/main.057d773f.css",
-    "main.js": "/Stream/static/js/main.c114454c.js",
+    "main.css": "/Stream/static/css/main.403ccc8e.css",
+    "main.js": "/Stream/static/js/main.b9a8aa3e.js",
     "static/js/755.a54bbd3a.chunk.js": "/Stream/static/js/755.a54bbd3a.chunk.js",
     "static/js/956.f6b8dae6.chunk.js": "/Stream/static/js/956.f6b8dae6.chunk.js",
     "static/js/707.4a034843.chunk.js": "/Stream/static/js/707.4a034843.chunk.js",
@@ -53,13 +53,14 @@
     "static/media/Confirmbutton.png": "/Stream/static/media/Confirmbutton.1d96b1320972425df695.png",
     "static/media/Hexagondark.jpg": "/Stream/static/media/Hexagondark.18c7ebc9707e18779224.jpg",
     "static/media/Cancelbutton.png": "/Stream/static/media/Cancelbutton.80922a450475bb5294c0.png",
+    "static/media/Videoframeclick.png": "/Stream/static/media/Videoframeclick.167bd86842a4250efaf8.png",
     "index.html": "/Stream/index.html",
-    "main.057d773f.css.map": "/Stream/static/css/main.057d773f.css.map",
-    "main.c114454c.js.map": "/Stream/static/js/main.c114454c.js.map",
+    "main.403ccc8e.css.map": "/Stream/static/css/main.403ccc8e.css.map",
+    "main.b9a8aa3e.js.map": "/Stream/static/js/main.b9a8aa3e.js.map",
     "651.74bee06a.chunk.js.map": "/Stream/static/js/651.74bee06a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.057d773f.css",
-    "static/js/main.c114454c.js"
+    "static/css/main.403ccc8e.css",
+    "static/js/main.b9a8aa3e.js"
   ]
 }
